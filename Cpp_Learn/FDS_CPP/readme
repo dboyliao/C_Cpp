@@ -1,0 +1,20 @@
+SOURCE CODE FOR FUNDAMENTALS OF DATA STRUCTURES IN C++
+======================================================
+
+1) Feel free to use the code in any way you wish, but please 
+   acknowledge the source.
+
+2) Note that some of the files contained here might represent 
+   older versions of the code. In some cases, files do not 
+   contain complete C++ programs, but rather C++ pseudocode.
+   These files will not compile. The remaining files were 
+   compiled using Borland C++, version 3.1. Please be aware
+   that the same files sometimes did not compile under other
+   C++ compilers! The reader is referred to <mention C++ journal
+   article for a discussion on the inconsistencies among current
+   C++ compilers>
+
+3) Please report any bugs in the code (or if the code does not 
+   match the text) by email to dmehta@utsi.edu.
+
+
