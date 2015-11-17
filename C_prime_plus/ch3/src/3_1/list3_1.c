@@ -7,6 +7,7 @@ int main(void)
 
     printf("Please enter your weight in kg: ");
     scanf("%f", &weight);
+    printf("weight: %f", weight);
 
     value = 1700 * weight;
     printf("Money: %.2f.\n", value);
