@@ -1,7 +1,8 @@
 CFLAGS=-Wall -g
+TARGETS=ex1 ex3 ex4 ex5 ex6
 
-all: ex1 ex3
+all: $(TARGETS)
 
 clean:
-	rm -f ex1 ex3
+	rm -f $(TARGETS)
 	rm -rf *.dSYM
