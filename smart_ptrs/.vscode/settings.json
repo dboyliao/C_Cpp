@@ -6,6 +6,14 @@
         "memory_resource": "cpp",
         "__config": "cpp",
         "memory": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "__functional_03": "cpp",
+        "__string": "cpp",
+        "functional": "cpp",
+        "system_error": "cpp",
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp",
+        "type_traits": "cpp"
     }
 }
