@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "memory_resource": "cpp",
+        "__config": "cpp",
+        "memory": "cpp"
+    }
+}
