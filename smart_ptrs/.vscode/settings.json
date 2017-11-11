@@ -5,6 +5,7 @@
         "string": "cpp",
         "memory_resource": "cpp",
         "__config": "cpp",
-        "memory": "cpp"
+        "memory": "cpp",
+        "iosfwd": "cpp"
     }
 }
