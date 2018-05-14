@@ -1,0 +1,3 @@
+[submodule "bench-dot-product"]
+	path = bench-dot-product
+	url = https://github.com/eholk/bench-dot-product.git
