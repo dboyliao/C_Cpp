@@ -3,6 +3,8 @@
         "stdio.h": "c",
         "stdlib.h": "c",
         "cstdlib": "c",
-        "inttypes.h": "c"
-    }
+        "inttypes.h": "c",
+        "malloc.h": "c"
+    },
+    "editor.formatOnSave": true
 }
