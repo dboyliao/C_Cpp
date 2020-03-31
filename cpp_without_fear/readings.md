@@ -1,0 +1,3 @@
+- https://isocpp.org/wiki/faq/templates#overview-templates
+- some operators come in pairs (const version and non-const version)
+  - it has to be so if we want our class to be used with/without `const` quantifier
