@@ -3,3 +3,14 @@
 - [deep C](https://www.slideshare.net/olvemaudal/deep-c/314)
 - [Rule of Three](http://www.drdobbs.com/c-made-easier-the-rule-of-three/184401400)
 - [Calling Convention](https://www.codeproject.com/Articles/1388/Calling-Conventions-Demystified)
+- http://cseweb.ucsd.edu/~ricko/rt_lt.rule.html
+- https://isocpp.org/wiki/faq/const-correctness
+- inline constexpr
+    - https://stackoverflow.com/questions/14391272/does-constexpr-imply-inline
+    - https://stackoverflow.com/questions/38043442/how-do-inline-variables-work/53896763#53896763
+- cast
+    - https://codeburst.io/understanding-c-casts-ef1f36e54240
+- virtual table
+    - https://www.martinkysel.com/demystifying-virtual-tables-in-c-part-1-trivial-constructors/
+- const reference to rvalues
+  - https://stackoverflow.com/questions/36102728/why-is-it-allowed-to-pass-r-values-by-const-reference-but-not-by-normal-referenc
